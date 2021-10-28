@@ -7,6 +7,7 @@ This repo is for collecting MLops tool
 ### Tutorial
 - Made with ML
   - A MLops Tutorial from GokuMandas: https://madewithml.com/#foundations
+    - github repo: https://github.com/GokuMohandas/MLOps    
    
 
 ### Template
